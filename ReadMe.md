@@ -29,7 +29,7 @@ Build a console-based banking system that allows:
 
 - Use **`int` for money** (cents instead of rand) to avoid floating point errors.
 - Use **OOP concepts** throughout the project.
-- All functionality must be **accessible via a CLI menu** in the `Main.java`.
+- All functionality must be **accessible via a CLI menu** in the `za.co.wethinkcode.Main.java`.
 
 ---
 
@@ -80,7 +80,7 @@ Use an `ArrayList<Customer>` for storing data in memory.
 
 ---
 
-### 🖥️ Class: `Main`
+### 🖥️ Class: `za.co.wethinkcode.Main`
 Console-based interface:
 
 ```text
