@@ -17,7 +17,7 @@ public class Main {
 
         System.out.println(customer.getCustomerId());
         customer.addAccount(acc);
-//        System.out.println(customer.getAccounts().toString());
+
 
         for (Account account: customer.getAccounts()) {
             System.out.println(account.getAccountNumber());
